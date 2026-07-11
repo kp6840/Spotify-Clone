@@ -1,1 +1,1 @@
-Here is basic version of spotify
+This is basic version of spotify 
